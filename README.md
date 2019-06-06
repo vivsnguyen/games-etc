@@ -1,2 +1,2 @@
 # thecoderschool
-projects to use with students
+Projects to use with students
